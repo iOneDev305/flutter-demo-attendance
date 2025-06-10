@@ -1,6 +1,6 @@
 class ApiEndpoints {
   // User-related endpoints
-  static const String postUserLogin = '/staffs/login';
+  static const String postUserLogin = '/api/auth/login';
   static const String postUserLogout = '/staffs/logout';
   static const String getMyAccount = '/staffs/myaccount';
   static const String postFeedback = '/staffs/feedback';
