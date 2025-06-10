@@ -1,0 +1,47 @@
+name: ione_office_intern
+description: "This project focuses on the part of the feature for the internship to do."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  dio: ^5.6.0
+  fluttertoast: ^8.2.12
+  shared_preferences: ^2.3.4
+  flutter_svg: ^2.0.10+1
+  pull_to_refresh: ^2.0.0
+  connectivity_plus: ^6.0.5
+  flutter_secure_storage: ^9.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/lang/en.json
+    - assets/lang/km.json
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Light.ttf
+        - asset: assets/fonts/OpenSans-Medium.ttf
+        - asset: assets/fonts/OpenSans-SemiBold.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
+        - asset: assets/fonts/OpenSans-ExtraBold.ttf
+    - family: KhmerOSBattambang
+      fonts:
+        - asset: assets/fonts/KhmerOS_battambang.ttf

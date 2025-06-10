@@ -1,0 +1,19 @@
+{
+  "welcome_back": "សូមស្វាគមន៍ត្រឡប់មកវិញ",
+  "login_to_your_account": "ចូលគណនីរបស់អ្នក",
+  "enter_your_username": "បញ្ចូលឈ្មោះអ្នកប្រើ",
+  "enter_your_password": "បញ្ចូលពាក្យសម្ងាត់",
+  "username": "ឈ្មោះអ្នកប្រើ",
+  "password": "ពាក្យសម្ងាត់",
+  "processing": "កំពុងដំណើរការ...",
+  "sign_in": "ចូល",
+  "menu": "ម៉ឺនុយ",
+  "account": "គណនី",
+  "language": "ភាសា",
+  "english": "អង់គ្លេស",
+  "khmer": "ខ្មែរ",
+  "logout": "ចាកចេញ",
+  "logout_title": "តើអ្នកពិតជាចង់ចាកចេញមែនទេ?",
+  "confirm_logout": "បញ្ជាក់ការចាកចេញ",
+  "hello": "សួស្ដី, "
+}

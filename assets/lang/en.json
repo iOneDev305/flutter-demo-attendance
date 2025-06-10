@@ -1,0 +1,19 @@
+{
+  "welcome_back": "Welcome Back",
+  "login_to_your_account": "Login to your account",
+  "enter_your_username": "Enter your username",
+  "enter_your_password": "Enter your password",
+  "username": "Username",
+  "password": "Password",
+  "processing": "Processing...",
+  "sign_in": "Sign In",
+  "menu": "Menu",
+  "hello": "Hello, ",
+  "language": "Language",
+  "english": "English",
+  "khmer": "Khmer",
+  "logout": "Logout",
+  "logout_title": "Are you sure you want to logout?",
+  "confirm_logout": "Confirmed Logout",
+  "account": "Account"
+}
